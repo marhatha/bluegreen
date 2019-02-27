@@ -1,5 +1,5 @@
 <?php
-// Create a 55x30 image puneet
+// Create a 55x30 image puneet1
 $im = imagecreatetruecolor(200, 200);
 $white = imagecolorallocate($im, 255, 255, 255);
 
